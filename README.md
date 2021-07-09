@@ -2,7 +2,7 @@
 ## Task -3 Payment Gateway Integration.
 
 ## IDE - Visual Studio Code
-## Languages used : HTML,CSS,JAVASCRIPT
+## Languages used : HTML, CSS, JAVASCRIPT
 ## Payment Gateway - Razorpay
 
 ## Food-Website along with payment gateway
